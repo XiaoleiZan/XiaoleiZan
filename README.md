@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XiaoleiZan
-- 👀 I’m interested in quantum effects and its application to Atomic and Molecular Physics, and High Energy Density Physics.
+- 👀 I’m interested in quantum effects and its application to Atomic and Molecular Physics, and High Energy Density Physics
 - 🌱 I’m currently learning Quantum Monte Carlo simulations
-- 💞️ I’m looking to collaborate on simulation coding
+- 💞️ I’m looking to collaborate on simulation coding and new method developing
 - 📫 Please feel free to contact me via: zanxiaolei123@163.com 
 
 <!---
